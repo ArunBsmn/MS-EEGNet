@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "MS-EEGNet: Multi-Scale EEGNet for Phonetic Similarity Analysis in Imagined Speech EEG"
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Balasubramanian"
+    given-names: "Arun"
+  - family-names: "Peddi"
+    given-names: "Santhoshkumar"
+  - family-names: "Samanta"
+    given-names: "Debasis"
+year: 2026
+url: "https://github.com/ArunBsmn/MS-EEGNet"

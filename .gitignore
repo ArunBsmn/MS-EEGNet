@@ -1,0 +1,21 @@
+# Environment and folders
+__pycache__/
+*.egg-info/
+.venv/
+env/
+
+# Results and outputs (large; store externally)
+results/
+weights/
+
+# Data (never commit raw datasets)
+data/
+*.mat
+*.edf
+*.set
+
+# Temporary files
+*.pyc
+*.pyo
+Temp/
+temp/
