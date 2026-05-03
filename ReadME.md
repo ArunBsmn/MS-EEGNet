@@ -35,7 +35,7 @@ MS-EEGNet/
 
 ## Datasets
 
-**KARAOne** — five binary tasks (B1–B5) and an 11-class multi-class (MC) task. This chapter focuses on B4 (all /iy/-phoneme words grouped) and MC (individual word labels) for cross-task saliency analysis. Preprocessing: ICA artefact removal, downsample to 256 Hz. [KARAOne Dataset](https://doi.org/10.3389/fnins.2015.00090)
+**KARAOne** — five binary tasks (B1–B5) and an 11-class multi-class (MC) task. This chapter focuses on B4 (all /iy/-phoneme words grouped) and MC (individual word labels) for cross-task saliency analysis. Preprocessing: ICA artefact removal, downsample to 256 Hz. [KARAOne Dataset](https://doi.org/10.1109/ICASSP.2015.7178118)
 
 ---
 
